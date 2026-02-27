@@ -10,7 +10,9 @@ Hello, World!
 docker compose -f postgres.yml up -d
 
 ```
+
 ------------------------------------
+
 ```bash
 #  To stop
 docker compose -f postgres.yml down

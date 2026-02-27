@@ -5,9 +5,9 @@ Hello, World!
 ## Postgres & PgAdmin in Docker
  
 ```bash
-# To run
+#  To run
 docker compose -f postgres.yml up -d
 
-# To stop
+#  To stop
 docker compose -f postgres.yml down
 ```

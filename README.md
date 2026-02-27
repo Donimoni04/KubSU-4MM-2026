@@ -8,6 +8,6 @@ Hello, World!
 # To run
 docker compose -f postgres.yml up -d
 
-#To stop
+# To stop
 docker compose -f postgres.yml down
 ```

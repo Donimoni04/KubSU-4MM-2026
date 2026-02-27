@@ -6,8 +6,8 @@ Hello, World!
  
 ```bash
 # To run
-docker compose -f postgres up -d
+docker compose -f postgres.yml up -d
 
 #To stop
-docker compose -f postgres down
+docker compose -f postgres.yml down
 ```
